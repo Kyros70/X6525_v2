@@ -4,7 +4,7 @@
 #
 # SPDX-License-Identifier: Apache-2.0
 #
-DEVICE_PATH := device/infinix/X6528
+DEVICE_PATH := device/infinix/X6525
 
 
 # For building with minimal manifest
@@ -38,7 +38,7 @@ BOARD_MOVE_GSI_AVB_KEYS_TO_VENDOR_BOOT := true
 BOARD_RAMDISK_USE_LZ4 := true
 
 # Assert
-TARGET_OTA_ASSERT_DEVICE := Infinix-X6528
+TARGET_OTA_ASSERT_DEVICE := Infinix-X6525
 
 
 # Architecture
