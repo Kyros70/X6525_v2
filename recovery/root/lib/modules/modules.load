@@ -56,6 +56,3 @@ slog_bridge.ko
 sbuf_bridge.ko
 sblock_bridge.ko
 usb_f_vser.ko
-omnivision_td4160.ko
-chipone_icnl99xx.ko
-adaptive-ts.ko
