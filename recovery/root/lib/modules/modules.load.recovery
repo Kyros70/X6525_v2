@@ -154,5 +154,3 @@ silead_fp.ko
 fpc_fp.ko
 transsion_resmonitor.ko
 transsion_trancare.ko
-adaptive-ts.ko
-omnivision_td4160.ko
