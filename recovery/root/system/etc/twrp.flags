@@ -14,7 +14,7 @@
 /vbmeta_odm               emmc     /dev/block/by-name/vbmeta_odm                              flags=display="VBMeta_vendor";backup=1;flashimg=1;slotselect
 /vbmeta_product           emmc     /dev/block/by-name/vbmeta_product                          flags=display="VBMeta_product";backup=1;flashimg=1;slotselect
 
-/misc emmc /dev/block/by-name/misc  
+/misc                     emmc     /dev/block/by-name/misc  
 
 /persist                  emmc     /dev/block/by-name/persist                                 flags=display="Persist"
 /fbootlogo                emmc     /dev/block/by-name/fbootlogo                               flags=display="Fastboot logo";flashimg=1;backup=1
